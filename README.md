@@ -22,11 +22,19 @@
 
 ###### Links of resources we reffered online :
 https://stackoverflow.com/questions/34406725/how-to-get-value-from-global-variable-in-another-module-python
+
 https://www.geeksforgeeks.org/python-avoiding-quotes-while-printing-strings/
+
 https://www.w3resource.com/python-exercises/list/python-data-type-list-exercise-65.php
+
 https://www.geeksforgeeks.org/python-dictionary-keys-method/
+
 https://realpython.com/iterate-through-dictionary-python/
+
 https://www.geeksforgeeks.org/python-add-new-keys-to-a-dictionary/
+
 https://www.geeksforgeeks.org/string-capitalize-python/
+
 https://www.askpython.com/python/examples/exit-a-python-program
+
 https://www.programiz.com/python-programming/datetime/current-time
