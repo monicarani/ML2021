@@ -19,7 +19,9 @@
 ###### Block diagram of the functions :
 ![](https://github.com/monicarani/ML2021/blob/main/flowchart.jpeg)
 ###### Youtube Link of demo :
+https://youtu.be/8wDFMTZ8viY
 https://youtu.be/dCPUY-3r96g
+
 
 ###### Links of resources we reffered online :
 https://stackoverflow.com/questions/34406725/how-to-get-value-from-global-variable-in-another-module-python
