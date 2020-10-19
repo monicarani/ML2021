@@ -19,9 +19,12 @@
 ###### Block diagram of the functions :
 ![](https://github.com/monicarani/ML2021/blob/main/flowchart.jpeg)
 ###### Youtube Link of demo :
-https://youtu.be/8wDFMTZ8viY
+
+Link of demonstration of project :
 https://youtu.be/dCPUY-3r96g
 
+Link showing sample output of our chatbot program :
+https://youtu.be/8wDFMTZ8viY
 
 ###### Links of resources we reffered online :
 https://stackoverflow.com/questions/34406725/how-to-get-value-from-global-variable-in-another-module-python
